@@ -84,15 +84,19 @@
 
 console.log((Math.random() * 100).toFixed(3));
 
-PI;
-abs;
-round;
-floor;
-ceil;
-trunc;
-sign;
-pow;
-sqrt;
-log;
-log2;
-random;
+// SCRIPT;
+// sqrt;
+// ceil;
+// round;
+// PI;
+// pow;
+// trunc;
+
+// FALLS;
+// floor;
+// abs;
+// log;
+// log2;
+// sign;
+
+// random;
